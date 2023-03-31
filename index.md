@@ -11,4 +11,4 @@ I grew up in Minot, North Dakota and am the oldest of 3 kids. I graduated from M
 
 I'm a wife to a fellow scientist and a mother to two beautiful daughters! We enjoy camping, being outside, our dogs Jack and Jill, and being with friends.
 
-
+<img src="Eleanor.JPG" alt="Eleanor" style="width:150px;"> <img src="Winnie.JPG" alt="Winnie" style="width:150px;">
