@@ -3,7 +3,7 @@
 
 ### Scientist, Wife, and Mother
 
-![My Family!]("C:\Users\ebiggane\Desktop\Family.JPG")
+<img src="C:\Users\ebiggane\Desktop\Family.JPG" alt="My Family!">
 
 I am Research Faculty in the Intertribal Research and Resource Center and United Tribes Technical College in Bismarck, ND. I'm a cell and molecular biologist, by training, with a broad focus on environmentally-linked cancers. I have an interest in incorporating environmental data to more holistically understand the environment's impact on molecular dysregulation of critical cell processes associated with cancer risk, initiation, and progression.
 
