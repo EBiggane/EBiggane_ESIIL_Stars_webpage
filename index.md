@@ -11,6 +11,6 @@ I grew up in Minot, North Dakota and am the oldest of 3 kids. I graduated from M
 
 I'm a wife to a fellow scientist and a mother to two beautiful daughters and a handsome new son! We enjoy camping, being outside, spending time with our dogs, and being with friends.
 
-<img src="Daughter_1.JPG" alt="Daughter_1" style="width:150px;"> <img src="Daughter_2.JPG" alt="Daughter_2" style="width:150px;"> <img src="Outside.JPG" alt="Outside" style="width:150px;"> <img src="Pup_1.JPG" alt="Pup_1" style="width:150px;"> <img src="Pup_2.JPG" alt="Pup_2" style="width:150px;">
+<img src="Daughter_1.JPG" alt="Daughter_1" style="width:150px;"> <img src="Daughter_2.JPG" alt="Daughter_2" style="width:150px;"> <img src="Son.JPG" alt="Son" style='width:250px;"> <img src="Outside.JPG" alt="Outside" style="width:150px;"> <img src="Pup_1.JPG" alt="Pup_1" style="width:150px;"> <img src="Pup_2.JPG" alt="Pup_2" style="width:150px;">
 
 
